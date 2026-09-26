@@ -1,0 +1,25 @@
+:root {
+  --purple: #9b5cff;
+  --orange: #ff8a3d;
+  --background: #08080d;
+  --text: #baa0ea;
+  --muted: #9999a8;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--text);
+  font-family: Arial, sans-serif;
+  
+}
+
+
+
+.projects-section {
+  padding: 100px 80px;
+}
