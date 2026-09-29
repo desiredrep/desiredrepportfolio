@@ -18,7 +18,7 @@ function Contact() {
 
                     <p className="contact-info">
                         <button onClick={openDiscord}>
-                            Discord: desiredrep
+                            Discord: desiredreputation
                         </button>
                         <button onClick={openGithub}>
                         Github: desiredrep
